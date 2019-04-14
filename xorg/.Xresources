@@ -1,0 +1,7 @@
+Xft.rgba: rgb
+
+URxvt.scrollBar: false
+URxvt.background: #111111
+URxvt.foreground: #cf9ebe
+URxvt.renderFont: true
+URxvt.font: xft:Free Mono:size=12,xft:DejaVu Sans
